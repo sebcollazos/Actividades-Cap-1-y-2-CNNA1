@@ -135,3 +135,20 @@ capas, capas propuestas por los modelos, un modelo se centra en las generalidade
 amplio, aquí se nos da las explicaciones de cómo  las capas trabajan en los datos compartidos.
 
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+R/
+
+	Modelo TCP/IP:
+	* Aplicación: Son los medios que utiliza el usuario para ingresar información y representa datos.
+	* Transporte: Es el encargado de permitir la comunicación entre dispositivos.
+	* Internet: Encargado de determinar la ruta más eficiente para la comunicación.
+	* Acceso a la red: Es quien controla los dispositivos hardware que conforman la red.
+
+	Modelo OSI:
+	* Aplicación: Es la capa encargada de proporcionar los medios para la comunicación entre usuarios.
+	* Presentación: Proporciona una vista de los datos de manera estandarizada.
+	* Sesión: Se encarga de prestar los servicios a la capa de presentación y poder organizar el intercambio de datos.
+	* Transporte: La capa de transporte es la encargada de definir los servicios a tratar para la transferencia de datos entre dispositivos finales.
+	* Red: Proporciona servicios para la transferencia de datos por la red entre dispositivos.
+	* Enlace de datos: Se encargan de describir métodos para lograr el intercambio entre un medio en común.
+	* Física: Se refiere a todos los componentes físicos o mecánicos utilizados para la transmisión de bits de un punto A a un punto B.
