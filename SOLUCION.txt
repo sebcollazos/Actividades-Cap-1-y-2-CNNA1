@@ -79,6 +79,16 @@ usuario hasta el destinatario.
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
 
+R/Anteriormente ya definimos lo que es la red, conjunto de dispositivos conectados entre sí con el fin de compartir cualquier tipo
+de información, al hablar de dispositivos se incluyen una gran cantidad y variedad de dispositivos, computadores, impresoras,
+celulares, etc, partiendo de esa variedad la red se divide en varios subtipos, cuando se habla de redes LAN y WAN se relaciona
+directamente con las zonas geográficas, LAN (Local Area Network) es una red de computadoras que cubre un área geográfica pequeña,
+como una oficina, un edificio o un campus universitario, al contrario de WAN (Wide Area Network) es una red de computadoras que
+cubre un área geográfica amplia, como una ciudad, un país o incluso el mundo. Un internetwork es una red formada por la
+interconexión de varias redes. Por ejemplo,al interconectar redes las LAN mediante una WAN obtendremos una red internetwork
+permiten compartir recursos y comunicarse entre sí de manera eficiente, y si unimos redes internetwork, tanto públicas como
+privadas, y aplicamos algún protocolo en su mayoría tcp/ip surge el concepto de Internet.
+
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
