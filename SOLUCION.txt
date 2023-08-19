@@ -10,6 +10,14 @@ Preguntas de lectura: Capítulo 1
 1. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
 es una red convergente?
 
+R/ Las redes de datos eran antiguamente conductos para enviar informacion basada en caracteres entre dispositivos conectados,
+ahora esa informacion se ectualizó y envian todo tipo de datos como voz, video o graficos a todo tipo de dispositivos; Todo
+lo mencionado anteriormente se conoce como datos.
+
+Las redes convergentes eliminan el uso de redes diferentes para cada tipo de dato y unifican esto en una sola red capaz de
+enviar datos como voz o video por un solo canal; como resultados diferentes dispositivos como computadores o telefonos se
+conectan a una sola infraestructura de red.
+
 2. Describir las características de las arquitecturas de red: tolerante a fallas,
 escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
 ejemplos.
