@@ -98,6 +98,10 @@ de las mallas del internetwork publica utilizada ampliamente por el público.
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
 
+R/La tarjeta de interfaz de red (NIC) es un complemento hardware que se utiliza para conectarse a una red. El puerto físico es el
+lugar físico en un dispositivo de red donde se conecta el cable de red. Por último, la interfaz de red es el software que se
+utiliza para configurar y administrar la conexión de red del dispositivo.
+
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
