@@ -119,6 +119,13 @@ capa física.
 qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
 adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 
+R/ Los protocolos en las comunicaciones se implementan en los dispositivos finales para la entrega de aplicaciones. El proceso
+comienza en la creación de los datos a enviar en el nivel de aplicación, seguidamente ocurre la segmentación y encapsulación de
+los datos, en el tercer paso se generan los datos sobre el medio que pertenece a la capa de acceso a la red; Pasando al punto 4 se
+transportan los datos por el interwork, utilizando los medios disponibles; el paso siguiente es la recepción de los datos en la
+capa de acceso a datos; como penúltimo paso se desencapsulan y se rearman los datos al entrar al dispositivo final; por último se
+traspasan los datos a la aplicación de destino en el dispositivo de destino.
+
 8. Describir la diferencia entre los modelos de protocolo y modelos de
 referencia.
 
