@@ -129,4 +129,9 @@ traspasan los datos a la aplicación de destino en el dispositivo de destino.
 8. Describir la diferencia entre los modelos de protocolo y modelos de
 referencia.
 
+R/ Los protocolos se centran en la parte técnica, limitada y específica a cierto número de dispositivos, como se protege el
+mensaje, como se transporta, como se pide al usuario, como los datos deben ser tratados en cada una de las fases de cada una de las
+capas, capas propuestas por los modelos, un modelo se centra en las generalidades de la comunicación y son un estándar mucho más
+amplio, aquí se nos da las explicaciones de cómo  las capas trabajan en los datos compartidos.
+
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
