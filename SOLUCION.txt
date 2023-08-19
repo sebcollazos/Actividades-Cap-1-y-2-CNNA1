@@ -91,6 +91,10 @@ privadas, y aplicamos algún protocolo en su mayoría tcp/ip surge el concepto d
 
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 
+R/La internetwork es una malla global de redes utilizadas por organizaciones públicas
+o privadas y están reservadas para su uso exclusivo. Por otro lado, el internet es una
+de las mallas del internetwork publica utilizada ampliamente por el público.
+
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
 
