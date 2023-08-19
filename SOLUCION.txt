@@ -70,6 +70,12 @@ Preguntas de lectura: Capítulo 2
 1. Describir la estructura de una red, incluidos los dispositivos, medios y
 servicios necesarios para lograr comunicaciones exitosas.
 
+R/ La estructura de una red consiste en origen del mensaje, seguido de un codificador que gracias a unas reglas convierte la
+información en bits para su envió junto con un transmisor, luego de eso pasa por el medio o “canal” el cual es común entre el
+origen y el destino, después pasa por el receptor y el decodificador para cambiar los bits en un formato que pueda comprender el
+usuario hasta el destinatario.
+
+
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
 
