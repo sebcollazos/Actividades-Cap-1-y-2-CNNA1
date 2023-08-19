@@ -22,6 +22,19 @@ conectan a una sola infraestructura de red.
 escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
 ejemplos.
 
+R/Tolerancia a fallos: como su nombre lo indica, la red evita al maximo los fallo como desconexiones por lo que se usan procesos
+para asegurar que los mensajes lleguen a su destinatario; hardware y software están diseñados para cumplir con la redundancia.
+
+Escalabilidad: se refiere a que tan flexible es la red en cuestion al momento de acceptar nuevos usuarios o aplicaciones sin
+que se vea afectado el rendimineto de la misma.
+
+Calidad del servicio: Como su nombre indica se refiere a que tanta calidad poseen los datos, ademas de ser enviados de manera
+ininterrumpida dando la sensacion mas cercana a experimentarlo en persona.
+
+Seguridad: Gracias a los avances tan veloces se requirió modificar los protocolos de seguridad y ahora se tienen en cuenta factores
+como evitar divulgar o modificar informacion no autorizada; por lo que se debe garatizar la confidencialidad, integridad y
+disponibilidad
+
 3. Investigar qué son las redes orientadas y no orientadas a la conexión.
 
 4. Describa que es la calidad del servicio y responda: ¿Por qué importa la
