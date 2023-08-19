@@ -104,6 +104,10 @@ utiliza para configurar y administrar la conexión de red del dispositivo.
 
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 
+R/ Se dice que los protocolos son independientes de la tecnología pues es la tecnología quien debe adaptarse a los protocolos.
+Gracias a que los protocolos están estandarizados es posible que diferentes tipos de dispositivos puedan comunicarse entre
+sí, pues son los encargados de especificar la funcionalidad y no la tecnología para admitir la misma.
+
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
 (PDU).
 
